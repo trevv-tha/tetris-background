@@ -1,4 +1,4 @@
-**# ******# $$
+
 # 🎮 Tetris Background with Theme Toggle
 
 A dynamic webpage featuring a Tetris-inspired background with falling blocks and a theme toggle for switching between dark and light modes.
